@@ -1,1 +1,4 @@
 *.code-workspace
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate
